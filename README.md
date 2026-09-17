@@ -1,2 +1,4 @@
 # my-git-practice
-我的Git练习仓库
+
+这是我的第一个 Git 练习仓库。
+
